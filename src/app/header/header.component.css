@@ -1,0 +1,155 @@
+.nav {
+ left: 0;
+ right: 0;
+  display: flex;
+  justify-content: center;
+  background-color: #76ABAE;
+  padding: 5px;
+}
+
+.nav h1 {
+  color: #fff;
+  
+  font-size: 40px;
+}
+.nav .nav-search {
+  
+  margin-top: 5px;
+  width: 70%;
+  border-radius: 10px ;
+
+}
+
+.nav .nav-search input {
+        width: 100%;
+    color: #fff;
+    border: none;
+    height: 39px;
+    border-right: none;
+    border-top-left-radius: 10px ;
+    border-bottom-left-radius: 10px;
+  text-decoration: none;
+  padding: 10px;
+}
+.nav .nav-search input:focus{
+  
+  border: none;
+  text-decoration: none;
+}
+
+
+
+.nav .nav-search button{
+    color: #fff;
+    background-color: #31363F;
+   border: none;
+    height: 39px;
+    border-left: none;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.nav ul {
+  white-space: nowrap;
+  overflow: hidden;
+    list-style-type: none;
+}
+
+.nav ul li{
+  display: inline-block;
+  margin: 0 10px;
+
+}
+
+.nav ul a {
+    text-decoration: none;
+    color: #EEEEEE;
+    cursor: pointer;
+    width:auto;
+    display: inline-block;
+}
+
+h1 a{
+  color: #EEEEEE;
+  text-decoration: none;
+}
+
+.suggested-search{
+  position: absolute;
+  width: 100%;
+  top: 50px;
+  display: list-item !important;
+  margin-left: 5px;
+  border: none;
+  background-color: #31363F;
+  width: 215px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  text-align: center;
+}
+.suggested-search li {
+  padding:5px;
+  border: none;
+}
+.suggested-search li a{
+  cursor: pointer;
+  color: #EEEEEE;
+  text-align: start
+}
+
+@media (max-width: 768px) {
+  .search-input {
+    width: 100% !important;
+
+  }
+}
+
+.nav-search form {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+@media (min-width: 769px) {
+  .nav-search form {
+    flex-direction: row;
+  }
+
+  .search-input {
+    width: auto;
+  }
+}
+
+/* .main-navbar{
+  border-bottom: 1px solid #ccc;
+}
+.main-navbar .top-navbar{
+  background-color: #2874f0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.main-navbar .top-navbar .brand-name{
+  color: #fff;
+}
+.main-navbar .top-navbar .nav-link{
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.main-navbar .navbar{
+  padding: 0px;
+  background-color: #ddd;
+}
+.main-navbar .navbar .nav-item .nav-link{
+  padding: 8px 20px;
+  color: #000;
+  font-size: 15px;
+}
+
+@media only screen and (max-width: 600px) {
+  .main-navbar .top-navbar .nav-link{
+      font-size: 12px;
+      padding: 8px 10px;
+  }
+} */

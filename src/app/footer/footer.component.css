@@ -1,0 +1,21 @@
+
+.footer {
+    
+    padding: 10px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: #76ABAE;
+    height: auto;
+    display: block;
+    z-index: 9999;
+}
+
+@media(max-width : 767px){
+    .footer{
+        font-size: 12px;
+    }
+}
+
+  
+  

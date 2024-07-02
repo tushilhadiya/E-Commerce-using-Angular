@@ -1,0 +1,19 @@
+h1{
+    color: #76ABAE;
+    text-align: center;
+}
+.add-product{
+    text-align: start;
+    margin-top: 20px;
+}
+button{
+    background-color: #76ABAE !important;
+    border-radius: 0;
+    border: none;
+    color: black;
+}
+
+input,textarea{
+    color: white;
+    border: none;
+}

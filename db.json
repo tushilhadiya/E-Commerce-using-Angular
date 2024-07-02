@@ -1,0 +1,353 @@
+{
+  "seller": [
+    {
+      "name": "sam sidhu",
+      "email": "sam@seller.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "peter",
+      "password": "abc@123",
+      "email": "peter@test.com",
+      "id": 3
+    },
+    {
+      "name": "bruce",
+      "password": "abc@123",
+      "email": "bruce@test.com",
+      "id": 4
+    },
+    {
+      "name": "anil",
+      "password": "abc123",
+      "email": "anil@test.com",
+      "id": 5
+    },
+    {
+      "name": "alena",
+      "password": "abc123",
+      "email": "alena@test.com",
+      "id": 6
+    },
+    {
+      "name": "sam",
+      "password": "abc@123",
+      "email": "sam@test.com",
+      "id": 7
+    },
+    {
+      "name": "bhasker",
+      "password": "abc@123",
+      "email": "bhasker@test.com",
+      "id": 8
+    },
+    {
+      "name": "Tushil",
+      "password": "tushil",
+      "email": "t@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "t",
+      "password": "t",
+      "email": "t",
+      "id": 10
+    },
+    {
+      "name": "tushilseller",
+      "password": "t123",
+      "email": "123",
+      "id": 11
+    },
+    {
+      "name": "tushil2",
+      "password": "tushil123",
+      "email": "tushil hadiya",
+      "id": 12
+    },
+    {
+      "name": "Tushil seller",
+      "password": "Tu@123",
+      "email": "tushil40@gmail.com",
+      "id": 13
+    }
+  ],
+  "products": [
+    {
+      "name": "I phone 14",
+      "price": "100000",
+      "category": "mobile",
+      "color": "black",
+      "description": "An Apple Product",
+      "image": "https://images.hindustantimes.com/tech/img/2023/01/31/1600x900/Untitled_design_-_2022-12-22T182124448_1675180418555_1675180418751_1675180418751.jpg",
+      "id": 2
+    },
+    {
+      "name": "HP Laptop",
+      "price": "50000",
+      "category": "Laptop",
+      "color": "black",
+      "description": "Hp laptop for student and professionals",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "id": 3
+    },
+    {
+      "name": "Nike Shoes",
+      "price": "3000",
+      "category": "Shoes",
+      "color": "Black",
+      "description": "Best shoes for Running",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1eeaacc0-e07c-4024-a5f7-57f2fd23e8a2/air-max-270-g-golf-shoe-Z6vCfs.png",
+      "id": 4
+    },
+    {
+      "name": "Levies Jeans",
+      "price": "5000",
+      "category": "Jeans",
+      "color": "blue",
+      "description": "Confirmable jeans for man ",
+      "image": "https://www.filmibeat.com/wimg/desktop/2012/12/13548612746596.jpg",
+      "id": 5
+    },
+    {
+      "name": "Noise Smart Watch",
+      "price": "2000",
+      "category": "Watch",
+      "color": "Black",
+      "description": "Noise smart watch for man and women both",
+      "image": "https://www.reliancedigital.in/medias/Noise-Colorfit-Pro-2-Smart-Watch-491900986-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDc0NXxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaDdjLzk1OTE4MjA3NDY3ODIuanBnfDA3MjZlMzkzOTExYzMyNzk5Y2YzOTk0MWFkMjc5YjE5OTlkMDE4NzYzYTg1YzQ2YmNjZjMxYzc5ZDJiYjBlNDg",
+      "id": 7
+    },
+    {
+      "name": "Yellow Shoes",
+      "price": "299",
+      "category": "Footwear",
+      "color": "yellow",
+      "description": "Best fit mens sneaker",
+      "image": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": 8
+    },
+    {
+      "name": "Ladies shoe",
+      "price": "399",
+      "category": "Ladies footear",
+      "color": "cameron green",
+      "description": "best fit ladie wear",
+      "image": "https://images.pexels.com/photos/1445696/pexels-photo-1445696.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": 9
+    },
+    {
+      "name": "iPhone 9",
+      "price": "549",
+      "category": "smartphones",
+      "color": "white",
+      "description": "An apple mobile which is nothing like apple",
+      "image": "https://cdn.dummyjson.com/product-images/1/1.jpg",
+      "id": 10
+    },
+    {
+      "name": "Samsung Galaxy Book",
+      "price": "120000",
+      "category": "laptops",
+      "color": "black",
+      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "image": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@user.com",
+      "password": "abc123",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "email": "peter@user.com",
+      "password": "abc123",
+      "id": 2
+    },
+    {
+      "name": "hyden",
+      "email": "hyden@user.com",
+      "password": "abc123",
+      "id": 3
+    },
+    {
+      "name": "tony",
+      "email": "tony@user.com",
+      "password": "abc123",
+      "id": 4
+    },
+    {
+      "name": "Tushil Hadiya",
+      "email": "tushilhadiya40@gmail.com",
+      "password": "tushil@123",
+      "id": 5
+    },
+    {
+      "name": "t@gmail.com",
+      "email": "",
+      "password": "tushil",
+      "id": 6
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 8
+    },
+    {
+      "name": "tushil",
+      "email": "t@123",
+      "password": "123",
+      "id": 9
+    },
+    {
+      "name": "t",
+      "email": "t",
+      "password": "t",
+      "id": 10
+    },
+    {
+      "name": "t",
+      "email": "t",
+      "password": "t",
+      "id": 11
+    },
+    {
+      "name": "t",
+      "email": "t",
+      "password": "t",
+      "id": 12
+    },
+    {
+      "name": "t",
+      "email": "t",
+      "password": "t",
+      "id": 13
+    },
+    {
+      "name": "t",
+      "email": "t",
+      "password": "t",
+      "id": 14
+    },
+    {
+      "name": "t",
+      "email": "t",
+      "password": "t",
+      "id": 15
+    },
+    {
+      "name": "t",
+      "email": "t",
+      "password": "t",
+      "id": 16
+    },
+    {
+      "name": "t",
+      "email": "t",
+      "password": "t",
+      "id": 17
+    },
+    {
+      "name": "tushil018",
+      "email": "t@gmail.com",
+      "password": "123",
+      "id": 18
+    },
+    {
+      "name": "tushil hadiya",
+      "email": "t2@gmail.com",
+      "password": "tushil123",
+      "id": 19
+    },
+    {
+      "name": "Tushil ",
+      "email": "tushil40@gmail.com",
+      "password": "tu@123",
+      "id": 20
+    }
+  ],
+  "cart": [
+    {
+      "name": "Levies Jeans",
+      "price": "5000",
+      "category": "Jeans",
+      "color": "blue",
+      "description": "Confirmable jeans for man ",
+      "image": "https://www.filmibeat.com/wimg/desktop/2012/12/13548612746596.jpg",
+      "quantity": 1,
+      "productId": 5,
+      "userId": 3,
+      "id": 8
+    },
+    {
+      "name": "Levies Jeans",
+      "price": "5000",
+      "category": "Jeans",
+      "color": "blue",
+      "description": "Confirmable jeans for man ",
+      "image": "https://www.filmibeat.com/wimg/desktop/2012/12/13548612746596.jpg",
+      "quantity": 10,
+      "productId": 5,
+      "userId": 17,
+      "id": 9
+    },
+    {
+      "name": "HP Laptop",
+      "price": "50000",
+      "category": "Laptop",
+      "color": "black",
+      "description": "Hp laptop for student and professionals",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "quantity": 1,
+      "productId": 3,
+      "userId": 19,
+      "id": 10
+    }
+  ],
+  "orders": [
+    {
+      "email": "anil@user.com",
+      "address": "noida sector x",
+      "contact": "9999",
+      "totalPrice": 104750,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "email": "anil@test.com",
+      "address": "noida sector x",
+      "contact": "8877",
+      "totalPrice": 6100,
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "email": "tushil40@gmail.com",
+      "address": "ahemdabad",
+      "contact": "7896542123",
+      "totalPrice": 50100,
+      "userId": 20,
+      "id": 4
+    },
+    {
+      "email": "ss",
+      "address": "ss",
+      "contact": "ss",
+      "totalPrice": 100100,
+      "userId": 20,
+      "id": 5
+    }
+  ]
+}
